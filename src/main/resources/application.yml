@@ -1,0 +1,13 @@
+calendar:
+  url: https://raw.githubusercontent.com/d10xa/holidays-calendar/master/json/calendar.json
+
+file:
+  location: src/main/resources/calendar.json
+
+server:
+  port: 8080
+
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher

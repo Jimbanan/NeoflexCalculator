@@ -1,0 +1,50 @@
+[
+  {
+    "yearSalary": 1200000,
+    "numberOfVacationDays": 15,
+    "startVacation": "2022-10-06",
+    "endVacation": "2022-10-26"
+  },
+  {
+    "yearSalary": 0,
+    "numberOfVacationDays": 15,
+    "startVacation": "2022-10-06",
+    "endVacation": "2022-10-26"
+  },
+  {
+    "yearSalary": 500,
+    "numberOfVacationDays": 0,
+    "startVacation": "2022-10-06",
+    "endVacation": "2022-10-26"
+  },
+  {
+    "yearSalary": 12000000,
+    "numberOfVacationDays": 15,
+    "startVacation": "2022-10-30",
+    "endVacation": "2022-10-26"
+  },
+  {
+    "yearSalary": 12000,
+    "numberOfVacationDays": 15
+  },
+  {
+    "numberOfVacationDays": 15,
+    "startVacation": "2022-10-30",
+    "endVacation": "2022-10-26"
+  },
+  {
+    "yearSalary": 12000,
+    "startVacation": "2022-10-30",
+    "endVacation": "2022-10-26"
+  },
+  {
+    "startVacation": "2022-10-30",
+    "endVacation": "2022-10-26"
+  },
+  {
+    "yearSalary": 12000,
+    "numberOfVacationDays": 14,
+    "startVacation": "2023-03-01",
+    "endVacation": "2023-03-12"
+  }
+]
