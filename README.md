@@ -12,9 +12,11 @@ GET "/calculacte"
 
 ## Взаимодействие с системой
 
-Доступ к API с помощью Postman. URL запроса http://localhost:8080/calculate
+Доступ к API с помощью URL запроса http://localhost:8080/calculate?yearSalary=120000&numberOfVacationDays=28&startVacation=2022-09-01&endVacation=2022-09-30
 
-Доступ к API с помощью Swagger UI. URL запроса http://localhost:8080/swagger-ui/index.html#/calculate-controller/calculateUsingGET
+Доступ к API с помощью Postman. URL запрос http://localhost:8080/calculate
+
+Доступ к API с помощью Swagger UI. URL запрос http://localhost:8080/swagger-ui/index.html#/calculate-controller/calculateUsingGET
 
 ### Входные данные
 ```
